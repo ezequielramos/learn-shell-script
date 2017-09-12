@@ -24,3 +24,8 @@ Pokémon e depois ser capaz de listar esses dados.
 #### Dica:
 
 - Você pode usar o comando `cat` para ler e `grep` para filtrar
+
+
+### DICA:
+
+- Use $1 para receber argumento
